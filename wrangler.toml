@@ -1,0 +1,8 @@
+name = "nyc-sidewalk-forum"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "forum-db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"
