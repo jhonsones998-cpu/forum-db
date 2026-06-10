@@ -5,4 +5,4 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "forum-db"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "f41b6526-7609-4eb4-bfa1-d4893b55aa6b"
